@@ -30,7 +30,6 @@ Every commit is a breadcrumb on the path to something bigger.
 
 > “Some projects never end — they just evolve.”
 
-👾 **Author:** [@paylsaak](https://github.com/paylsaak)  
 📡 **Version:** `v0.1-alpha`  
 🕹️ *Transmitting creativity across the void...*
 
