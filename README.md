@@ -1,4 +1,4 @@
-# neon-protocol
+# zero-signal
 The first spark of paylsaak — a retro-coded beginning in a digital void.
 # 🌌 PROJECT: ZERO SIGNAL
 
